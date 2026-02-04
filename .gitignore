@@ -1,0 +1,10 @@
+.idea/
+Environment.props
+
+bin/
+obj/
+packages/
+
+*.DotSettings.user
+_ReSharper.Caches/
+riderModule.iml

@@ -1,0 +1,9 @@
+{
+	"name": "StartupHotfix",
+	"description": "Fixes issues with Valheim's 0.221.10 update by setting the correct DistributionPlatform earlier",
+	"version_number": "0.1.0",
+	"website_url": "https://github.com/MSchmoecker/ValheimStartupHotfix",
+	"dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2333"
+	]
+}
